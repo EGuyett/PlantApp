@@ -1,0 +1,62 @@
+
+
+Plant app (the green grimoire)
+
+color pallet 
+greens, green blues/turquoize, mustards/golds, warm greys warm browns
+
+style
+antique/vintage dark acadamia  
+
+-Plant type (common name, scientific name, toxic/non-toxic)
+	- plant description
+		-category 
+			-folliage plants 
+			-flowering plant 
+			-herb/medicinal
+			-cacti/succulents
+			-fruit
+			-vegetable
+		-natural habitate
+		-uses
+			-remedy
+				-backed by science?	
+					-yes (link)
+					-no (link)
+					-not enough testing (link)
+	- plant care
+		-light requirements
+		-temperature requirements
+		-humidity requirements
+		-moisture requirements
+		-pruning
+		-harvesting
+		-fertalizing 
+		-wintering
+
+	- common problems/remidies 
+
+
+-calendar
+	-misting schedule
+	-water schedule
+		-plant size
+		-potted
+			-pot type
+			-size
+			-drainage
+			-material
+		-inground
+			-soil type
+
+
+	-fertalization schedule
+		-type of fertalizer
+	-pruning schedule
+	-repotting schedule
+	-growth documentation
+		-input height & || width
+		-new leaves / branches	
+			-yes
+			-no
+		-picture
