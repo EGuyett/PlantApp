@@ -11,7 +11,20 @@ body {
   font-size: 62.5%;
   overflow: hidden;
 }
-
+body h2{
+  padding: 1rem 1rem 1rem 2rem;
+  font-size: 1rem;
+  font-weight: 400;
+}
+.pop-nav{
+  position: sticky;
+  z-index: 8;
+}
+.menu-icon{
+  color: var(--dark-beige);
+  width: 2rem;
+  height: 2rem;
+}
 .welcome{
   height: 2rem;
   height: fit-content;
@@ -23,9 +36,12 @@ body {
 }
 .welcome h2{
   position: relative;
-  color: var(--dark-beige);
-  width: fit-content;
-  height: fit-content;
+    color: var(--dark-beige);
+    width: fit-content;
+    height: fit-content;
+    font-weight: 300;
+    text-transform: uppercase;
+    margin: auto;
 
 }
 .banner-img {
@@ -43,12 +59,9 @@ body {
   width: 100%;
   color: var(--dark-beige);
   background-color: var(--dark-blue);
-  margin-top: 12rem;
+  margin-top: 11rem;
 }
- body h2{
-  padding: 1rem 1rem 1rem 2rem;
-  font-size: 1rem;
-}
+
 p{
   font-size:xx-small;
   width: 20rem
