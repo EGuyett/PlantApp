@@ -1,0 +1,79 @@
+:root {
+  --bright-orange: #d43218;
+  --dark-green: #375748;
+  --dark-blue: #162333;
+  --gold: #ceb163;
+  --dark-beige: #9fa18b;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif';
+}
+
+body {
+  font-size: 62.5%;
+  overflow: hidden;
+}
+
+.welcome{
+  height: 2rem;
+  height: fit-content;
+  top: 6rem;
+  opacity: 0.9;
+  position: relative;
+  z-index: 1;
+  background-color: var(--dark-green)
+}
+.welcome h2{
+  position: relative;
+  color: var(--dark-beige);
+  width: fit-content;
+  height: fit-content;
+
+}
+.banner-img {
+  height: 16rem;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  z-index: auto;
+  object-fit: cover;
+}
+
+
+.plantspo {
+  height: 15rem;
+  width: 100%;
+  color: var(--dark-beige);
+  background-color: var(--dark-blue);
+  margin-top: 12rem;
+}
+ body h2{
+  padding: 1rem 1rem 1rem 2rem;
+  font-size: 1rem;
+}
+p{
+  font-size:xx-small;
+  width: 20rem
+}
+.scrolling-wrapper > .row {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+  -webkit-overflow-scrolling: touch;
+}
+.scroll-card {
+  display: inline-block;
+}
+.scroll-card-img{
+  object-fit: cover;
+  height: 5rem;
+  width: 6rem;
+}
+
+.totd{
+  height: 17rem;
+  background-color: var(--dark-green);
+  color: var(--dark-beige);
+}
+.totd-content{
+  margin: auto;
+  width: fit-content;
+}
